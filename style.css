@@ -28,6 +28,7 @@ body {
     grid-gap: 55px;
     overflow: hidden;
     padding-left: 10px;
+    padding-top:10px;
 }
 
 a, a:visited, a:hover, a:active {
