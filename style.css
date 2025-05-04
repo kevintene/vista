@@ -56,7 +56,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .icon1 {
-    background-image: url("icons/MSN.png");
+    background-image: url("icons/msn.png");
     background-size: 100%;
     aspect-ratio: 1 / 1;
     width: 80px;
@@ -177,7 +177,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .icon5 {
-    background-image: url("icons/Calendar.png");
+    background-image: url("icons/calendar.png");
     background-size: 100%;
     aspect-ratio: 1 / 1;
     width: 64px;
